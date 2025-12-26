@@ -1,4 +1,4 @@
-<img width="641" height="237" alt="438840913-e6134872-fe3b-4946-ad27-15225b4ab9f1" src="https://github.com/user-attachments/assets/e927d53b-ace7-44cd-9ce0-75b23e01db29" /># Module-3
+# Module-3
 # 🧹 Strings-Remove Nth Index Character from a String
 
 ## 🎯 Aim
